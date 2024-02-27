@@ -7,13 +7,33 @@ public class RepeatIsBad {
 
     @SuppressWarnings("java:S106")
     public void repeatIsBad(){
-    	int n = 20;
+    	/*int n = 20;
     	String text = "writing the same code doesn't have much impact, and it's also time consuming \n";
     		
     String resultado = IntStream.range(0, n)
     									.mapToObj(i -> text)
     									.collect(Collectors.joining());
-    System.out.println(resultado);
+    System.out.println(resultado);*/
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
+    System.out.println("writing the same code doesn't have much impact, and it's also time consuming");
     }
     
     public static void main(String[] args) {
